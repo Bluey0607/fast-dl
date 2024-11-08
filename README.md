@@ -40,9 +40,13 @@ dm_amoeba by [the sun is my son](https://gamebanana.com/members/1765845)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
+[dm_deepsea by Mira ♡](https://tf2maps.net/downloads/dm_deepsea.17828/)
+
 [dm_delay by yeah right](https://tf2maps.net/downloads/miami.15607/)
 
-dm_forgecall by [Wendy](https://tf2maps.net/members/wendy.39264/)
+[dm_disposal by Sae35™](https://tf2maps.net/downloads/dm_disposal.17793/)
+
+[dm_foundation by ZaChelbom](https://tf2maps.net/downloads/foundation.15926/)
 
 [dm_frizzlesberg by Ossilia Flawol](https://tf2maps.net/downloads/dm_frizzlesberg.17662/)
 
@@ -51,8 +55,6 @@ dm_graymannsfactory by [the sun is my son](https://gamebanana.com/members/176584
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king by JustSparky, original by 3Dnj](https://gamebanana.com/mods/151104)
-
-dm_kritzpit by [Avix](https://tf2maps.net/members/avix.41860/)
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
@@ -71,8 +73,6 @@ dm_silhouette_dev2 by [the sun is my son](https://gamebanana.com/members/1765845
 [dm_plateau by pigeon](https://tf2maps.net/downloads/plateau.15273/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
-
-dm_villa by [Wendy](https://tf2maps.net/members/wendy.39264/)
 
 [duel_amazon by d3adfin](https://tf2maps.net/downloads/amazon.12811/)
 

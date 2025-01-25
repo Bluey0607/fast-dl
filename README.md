@@ -120,6 +120,8 @@ Team Fortress 2 Classic
 
 [koth_rotunda by Brokkhouse](https://tf2maps.net/downloads/rotunda-tf2c.15505/)
 
+[plr_smoked by Slinkies](https://tf2maps.net/downloads/plr_smoked.17612/)
+
 [tc_national by 14bit](https://tf2maps.net/downloads/tc-national-tf2c.14991/)
 
 [vip_dover by Lev1679](https://tf2maps.net/downloads/vip_dover.13199/)

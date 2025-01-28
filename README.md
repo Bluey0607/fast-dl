@@ -42,35 +42,31 @@ dm_amoeba by [the sun is my son](https://gamebanana.com/members/1765845)
 
 [dm_deepsea by Mira ♡](https://tf2maps.net/downloads/dm_deepsea.17828/)
 
-[dm_delay by yeah right](https://tf2maps.net/downloads/miami.15607/)
+[dm_delay by yeah right](https://tf2maps.net/downloads/delay.17678/)
 
 [dm_disposal by Sae35™](https://tf2maps.net/downloads/dm_disposal.17793/)
-
-[dm_foundation by ZaChelbom](https://tf2maps.net/downloads/foundation.15926/)
 
 [dm_frizzlesberg by Ossilia Flawol](https://tf2maps.net/downloads/dm_frizzlesberg.17662/)
 
 dm_graymannsfactory by [the sun is my son](https://gamebanana.com/members/1765845)
 
-[dm_hollow by Savva](https://gamebanana.com/mods/151101)
+[dm_hallways by OnlineBanjo](https://tf2maps.net/downloads/dm_hallways_72hr.18729/)
 
-[dm_kong_king by JustSparky, original by 3Dnj](https://gamebanana.com/mods/151104)
+[dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
-[dm_miami by yeah right](https://tf2maps.net/downloads/delay.17678/)
-
-[dm_razorpoint by Gravidea](https://tf2maps.net/downloads/razorpoint-open-fortress.17641/)
+[dm_miami by yeah right](https://tf2maps.net/downloads/miami.15607/)
 
 dm_reserve by AlmightyKale
 
 dm_silhouette_dev2 by [the sun is my son](https://gamebanana.com/members/1765845)
 
+dm_smokescreen by AlmightyKale
+
 [dm_snarkpit by Sae35™](https://tf2maps.net/downloads/dm_snarkpit.17491/)
 
 [dm_petra by KrazyZark](https://gamebanana.com/mods/151077)
-
-[dm_plateau by pigeon](https://tf2maps.net/downloads/plateau.15273/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
@@ -88,27 +84,15 @@ dm_silhouette_dev2 by [the sun is my son](https://gamebanana.com/members/1765845
 
 [duel_skybreak by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
 
-[duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
-
-[mctf_redplanet by Savva, original by Spipper](https://gamebanana.com/mods/151129)
-
-[mdom_celestialresort by Pigeon](https://tf2maps.net/downloads/celestial-resort.15938/)
-
 Team Fortress 2 Classic
 
 [4koth_badlands by sniffy194](https://tf2maps.net/downloads/4koth_badlands-4-team-badlands.13100/)
 
 [arena_4plex by PugFug](https://gamebanana.com/mods/56256)
 
-[arena_4walls by ASDF1308](https://gamebanana.com/mods/442373)
-
 [arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
 
-[arena_gravelpit by HDMine_face](https://gamebanana.com/mods/422564)
-
 [aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
-
-[ctf_haarp by Dr. Spud](https://tf2maps.net/downloads/haarp.24/)
 
 [dom_barnfield_a3 by Lev1679](https://tf2maps.net/downloads/dom_barnfield.13294/)
 
@@ -125,9 +109,3 @@ Team Fortress 2 Classic
 [tc_national by 14bit](https://tf2maps.net/downloads/tc-national-tf2c.14991/)
 
 [vip_dover by Lev1679](https://tf2maps.net/downloads/vip_dover.13199/)
-
-[vip_haarp_classic by Mr. Skullium, original by Dr. Spud](https://drive.google.com/file/d/1d-SnxpCm40Ga9gButlRZt5Ce3SjOUBoy/view)
-
-[vip_upward by Technochips](https://tf2maps.net/downloads/vip_upward.13091/)
-
-[vipr_hijack by TrustyGun](https://tf2maps.net/downloads/vipr_hijack.13189/)

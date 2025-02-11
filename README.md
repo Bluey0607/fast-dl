@@ -130,7 +130,7 @@ dm_smokescreen by AlmightyKale
 
 [cp_mainline by S.W.A.T.Y](https://tf2maps.net/downloads/mainline.604/)
 
-[cp_nixie by Idolon[(https://tf2maps.net/downloads/nixie.13005/)
+[cp_nixie by Idolon](https://tf2maps.net/downloads/nixie.13005/)
 
 [cp_upland by honeymustard](https://tf2maps.net/downloads/upland.21/)
 

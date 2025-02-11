@@ -98,12 +98,6 @@ dm_smokescreen by AlmightyKale
 
 [arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
 
-[aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
-
-[dom_barnfield_a3 by Lev1679](https://tf2maps.net/downloads/dom_barnfield.13294/)
-
-[dom_byre by Lev1679, original by Idolon](https://gamebanana.com/mods/56221)
-
 [dom_cliffhanger_tf2c by queensizedsofa, original by Zeql33t](https://gamebanana.com/mods/56223)
 
 [dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)
@@ -130,7 +124,7 @@ dm_smokescreen by AlmightyKale
 
 [cp_mainline by S.W.A.T.Y](https://tf2maps.net/downloads/mainline.604/)
 
-[cp_nixie by Idolon[(https://tf2maps.net/downloads/nixie.13005/)
+[cp_nixie by Idolon](https://tf2maps.net/downloads/nixie.13005/)
 
 [cp_upland by honeymustard](https://tf2maps.net/downloads/upland.21/)
 

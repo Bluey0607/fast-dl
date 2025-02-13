@@ -20,8 +20,6 @@ jb_miningdrill by [the sun is my son](https://gamebanana.com/members/1765845)
 
 [jb_tides by Hexmail](https://gamebanana.com/mods/412121)
 
-[dm_bridge by NykO18](https://gamebanana.com/mods/436002)
-
 # Open Fortress
 
 ## Deathmatch

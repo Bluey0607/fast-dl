@@ -120,6 +120,8 @@ dm_smokescreen by AlmightyKale
 
 [cp_edifice by phi](https://tf2maps.net/downloads/edifice.10/)
 
+[cp_fulgur by AsG_Alligator](https://tf2maps.net/downloads/fulgur.8458/)
+
 [cp_mainline by S.W.A.T.Y](https://tf2maps.net/downloads/mainline.604/)
 
 [cp_nixie by Idolon](https://tf2maps.net/downloads/nixie.13005/)
@@ -136,6 +138,10 @@ dm_smokescreen by AlmightyKale
 
 [koth_megasnow by Berry](https://tf2maps.net/downloads/megasnow.12547/)
 
+[koth_shorelight by zythe_](https://tf2maps.net/downloads/shorelight.12650/)
+
+[koth_soot by Spleep](https://tf2maps.net/downloads/soot.10918/)
+
 [koth_undergrove by marshmallie](https://tf2maps.net/downloads/undergrove.5663/)
 
 [pl_blastpitt by AsG_Alligator](https://tf2maps.net/downloads/blastpitt.7363/)
@@ -145,6 +151,8 @@ dm_smokescreen by AlmightyKale
 [pl_escarpment by Freyja](https://tf2maps.net/downloads/escarpment.44/)
 
 [pl_eureka_mine by GigaBite](https://tf2maps.net/downloads/eureka-mine.17928/)
+
+[pl_farmstead by Freyja](https://tf2maps.net/downloads/farmstead.677/)
 
 [pl_highwood by Asd417](https://tf2maps.net/downloads/highwood.7211/)
 

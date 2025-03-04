@@ -184,11 +184,13 @@ dm_smokescreen by AlmightyKale
 
 [ctf_haarp by Dr. Spud](https://tf2maps.net/downloads/haarp.24/)
 
+[ctf_nuclide by Suna](https://tf2maps.net/downloads/nuclide.9026/)
+
 [ctf_overlook by DaBeatzProjet](https://tf2maps.net/downloads/overlook.28/)
 
 [ctf_sidewinder by Stickface](https://tf2maps.net/downloads/sidewinder.9093/)
 
-[ctf_System by Ravidge](https://tf2maps.net/downloads/system.29/)
+[ctf_system by Ravidge](https://tf2maps.net/downloads/system.29/)
 
 [koth_camp_saxton by Void](https://tf2maps.net/downloads/camp-saxton.15475/)
 

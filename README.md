@@ -232,6 +232,6 @@ dm_smokescreen by AlmightyKale
 
 [pl_silverline by Fishbus](https://tf2maps.net/downloads/silverline.17735/)
 
-[pl_waste by pumpko](https://tf2maps.net/downloads/longboy.7614/)
+[pl_waste by pumpko](https://tf2maps.net/downloads/waste.185/)
 
 [pl_yokohama by Idolon](https://tf2maps.net/downloads/yokohama.15544/)

@@ -128,6 +128,8 @@ dm_smokescreen by AlmightyKale
 
 [arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
 
+[ctf_4fort by randomaspland](https://gamebanana.com/mods/56193)
+
 [dom_cliffhanger_tf2c by queensizedsofa, original by Zeql33t](https://gamebanana.com/mods/56223)
 
 [dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)
@@ -215,8 +217,6 @@ dm_smokescreen by AlmightyKale
 [pl_boundary by honeymustard](https://tf2maps.net/downloads/boundary.41/)
 
 [pl_escarpment by Freyja](https://tf2maps.net/downloads/escarpment.44/)
-
-[pl_eureka_mine by GigaBite](https://tf2maps.net/downloads/eureka-mine.17928/)
 
 [pl_farmstead by Freyja](https://tf2maps.net/downloads/farmstead.677/)
 

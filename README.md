@@ -130,6 +130,8 @@ dm_smokescreen by AlmightyKale
 
 [ctf_4fort by randomaspland](https://gamebanana.com/mods/56193)
 
+[dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
+
 [dom_cliffhanger_tf2c by queensizedsofa, original by Zeql33t](https://gamebanana.com/mods/56223)
 
 [dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)

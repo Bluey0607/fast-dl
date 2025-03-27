@@ -112,6 +112,14 @@ dm_smokescreen by AlmightyKale
 
 [dm_widestmeter by AlphaBlaster](https://tf2maps.net/downloads/the-widest-meter.17258/)
 
+dm_frizzlescrash by Ossilia Flawol
+
+dm_pmug by Ossilia Flawol
+
+dm_trainyard_tdc by Ossilia Flawol
+
+dm_white_pharaoh by Ossilia Flawol
+
 
 
 # Team Fortress 2 Classic

@@ -112,7 +112,7 @@ dm_smokescreen by AlmightyKale
 
 [dm_widestmeter by AlphaBlaster](https://tf2maps.net/downloads/the-widest-meter.17258/)
 
-dm_frizzlescrash by Ossilia Flawol
+jb_frizzlesberg ..? by Ossilia Flawol
 
 dm_pmug by Ossilia Flawol
 

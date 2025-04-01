@@ -86,11 +86,15 @@ dm_smokescreen by AlmightyKale
 
 ## April Fools
 
+[dm_badwater by Boom02 and Wheatttt](https://gamebanana.com/mods/443084)
+
 [dm_bobomb_battlefield by JJFortJ](https://gamebanana.com/mods/391065)
 
 [dm_campgrounds by jan](https://gamebanana.com/mods/428727)
 
 [dm_castlemc by Scales](https://gamebanana.com/mods/151059)
+
+dm_hydro by OF Team
 
 [dm_junket by Zpunky](https://tf2maps.net/downloads/dm_junket.15714/)
 
@@ -106,11 +110,17 @@ dm_smokescreen by AlmightyKale
 
 [dm_runoff_of by JJFortJ](https://gamebanana.com/mods/386727)
 
+dm_vegemite_sandwich
+
 [dm_venice by Agameofscones and jan](https://gamebanana.com/mods/427113)
 
 [dm_vertigo by Emil_Rusboi](https://gamebanana.com/mods/151122)
 
 [dm_widestmeter by AlphaBlaster](https://tf2maps.net/downloads/the-widest-meter.17258/)
+
+dm_koth_badlands by Bluey0607
+
+dm_pl_badwater by Bluey0607
 
 jb_frizzlesberg ..? by Ossilia Flawol
 
@@ -119,6 +129,8 @@ dm_pmug by Ossilia Flawol
 dm_trainyard_tdc by Ossilia Flawol
 
 dm_white_pharaoh by Ossilia Flawol
+
+tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 
 

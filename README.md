@@ -202,6 +202,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [cp_upland by honeymustard](https://tf2maps.net/downloads/upland.21/)
 
+[cp_whiterock by Freyja](https://tf2maps.net/downloads/whiterock.16/)
+
 [ctf_frosty by 3Dnj](https://tf2maps.net/downloads/frosty.6137/)
 
 [ctf_giants by pont](https://tf2maps.net/downloads/giants.12654/)
@@ -216,7 +218,11 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [ctf_system by Ravidge](https://tf2maps.net/downloads/system.29/)
 
+[koth_brine by Crash](https://tf2maps.net/downloads/brine.14992/)
+
 [koth_camp_saxton by Void](https://tf2maps.net/downloads/camp-saxton.15475/)
+
+[koth_conveyance by thalia](https://tf2maps.net/downloads/conveyance-spring-fullthrottle.12769/)
 
 [koth_county by passionateandripped](https://tf2maps.net/downloads/county.11345/)
 
@@ -226,7 +232,11 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [koth_kemptown by Muddy](https://tf2maps.net/downloads/kemptown.1010/)
 
+[koth_lowtide by Gruppy](https://tf2maps.net/downloads/lowtide.18916/)
+
 [koth_megasnow by Berry](https://tf2maps.net/downloads/megasnow.12547/)
+
+[koth_naphtha by TobyTwo32](https://tf2maps.net/downloads/naphtha.18837/)
 
 [koth_shorelight by zythe_](https://tf2maps.net/downloads/shorelight.12650/)
 
@@ -235,6 +245,10 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 [koth_undergrove by marshmallie](https://tf2maps.net/downloads/undergrove.5663/)
 
 [pl_blastpitt by AsG_Alligator](https://tf2maps.net/downloads/blastpitt.7363/)
+
+[pl_blastforge by Dasprucegoose](https://tf2maps.net/downloads/blastforge.16950/)
+
+[pl_blocked by Crash](https://tf2maps.net/downloads/blocked.17356/)
 
 [pl_boundary by honeymustard](https://tf2maps.net/downloads/boundary.41/)
 
@@ -249,6 +263,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 [pl_jerrycan by youporkchop5](https://tf2maps.net/downloads/jerrycan-3.15816/)
 
 [pl_longboy by pumpko](https://tf2maps.net/downloads/longboy.7614/)
+
+[pl_mariposa by Erk](https://tf2maps.net/downloads/mariposa.19126/)
 
 [pl_shatter by Fishbus](https://tf2maps.net/downloads/shatter.17734/)
 

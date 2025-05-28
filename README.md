@@ -250,8 +250,6 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [pl_blocked by Crash](https://tf2maps.net/downloads/blocked.17356/)
 
-[pl_boundary by honeymustard](https://tf2maps.net/downloads/boundary.41/)
-
 [pl_escarpment by Freyja](https://tf2maps.net/downloads/escarpment.44/)
 
 [pl_farmstead by Freyja](https://tf2maps.net/downloads/farmstead.677/)

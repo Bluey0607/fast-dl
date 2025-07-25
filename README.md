@@ -60,6 +60,8 @@ dm_graymannsfactory by [the sun is my son](https://gamebanana.com/members/176584
 
 dm_reserve by AlmightyKale
 
+dm_saloon by sun/autumn
+
 dm_silhouette_dev2 by [the sun is my son](https://gamebanana.com/members/1765845)
 
 dm_smokescreen by AlmightyKale

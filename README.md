@@ -42,6 +42,8 @@ dm_amoeba by [the sun is my son](https://gamebanana.com/members/1765845)
 
 [dm_disposal by Sae35™](https://tf2maps.net/downloads/dm_disposal.17793/)
 
+[dm_encounter by Rapscallion at Large](https://tf2maps.net/downloads/dm_encounter.19441/)
+
 [dm_frizzlesberg by Ossilia Flawol](https://tf2maps.net/downloads/dm_frizzlesberg.17662/)
 
 dm_graymannsfactory by [the sun is my son](https://gamebanana.com/members/1765845)
@@ -212,6 +214,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [ctf_haarp by Dr. Spud](https://tf2maps.net/downloads/haarp.24/)
 
+[ctf_hivemind by MayaMogus](https://tf2maps.net/downloads/hivemind.18943/)
+
 [ctf_nuclide by Suna](https://tf2maps.net/downloads/nuclide.9026/)
 
 [ctf_overlook by DaBeatzProjet](https://tf2maps.net/downloads/overlook.28/)
@@ -251,6 +255,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 [pl_blastforge by Dasprucegoose](https://tf2maps.net/downloads/blastforge.16950/)
 
 [pl_blocked by Crash](https://tf2maps.net/downloads/blocked.17356/)
+
+[pl_bumblefumble by DoctorDoomtrain64](https://tf2maps.net/downloads/bumblefumble.11680/)
 
 [pl_escarpment by Freyja](https://tf2maps.net/downloads/escarpment.44/)
 

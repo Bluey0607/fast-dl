@@ -42,8 +42,6 @@ dm_amoeba by [the sun is my son](https://gamebanana.com/members/1765845)
 
 [dm_disposal by Sae35™](https://tf2maps.net/downloads/dm_disposal.17793/)
 
-[dm_encounter by Rapscallion at Large](https://tf2maps.net/downloads/dm_encounter.19441/)
-
 [dm_frizzlesberg by Ossilia Flawol](https://tf2maps.net/downloads/dm_frizzlesberg.17662/)
 
 dm_graymannsfactory by [the sun is my son](https://gamebanana.com/members/1765845)
@@ -156,6 +154,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
 
+[dom_carts by Voodoo People](https://gamebanana.com/mods/581111)
+
 [dom_cliffhanger_tf2c by queensizedsofa, original by Zeql33t](https://gamebanana.com/mods/56223)
 
 [dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)
@@ -194,6 +194,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 
 [cp_fulgur by AsG_Alligator](https://tf2maps.net/downloads/fulgur.8458/)
 
+[cp_hybrid by Jack5](https://gamebanana.com/mods/69173)
+
 [cp_mainline by S.W.A.T.Y](https://tf2maps.net/downloads/mainline.604/)
 
 [cp_nixie by Idolon](https://tf2maps.net/downloads/nixie.13005/)
@@ -231,6 +233,8 @@ tdm_shipbreaker by savva, with edits by Ossilia Flawol
 [koth_conveyance by thalia](https://tf2maps.net/downloads/conveyance-spring-fullthrottle.12769/)
 
 [koth_county by passionateandripped](https://tf2maps.net/downloads/county.11345/)
+
+[koth_databank_snowy by iiboharz](https://tf2maps.net/downloads/snowbank.16808/)
 
 [koth_gamma by Midluo](https://tf2maps.net/downloads/ice-tower.5884/)
 

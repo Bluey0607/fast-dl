@@ -162,6 +162,6 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [pl\_blastpitt by AsG\_Alligator](https://tf2maps.net/downloads/blastpitt.7363/)
 
-[pl\_blocked by Crash](https://tf2maps.net/downloads/blocked.17356/) 
+[pl\_blocked by Crash](https://tf2maps.net/downloads/blocked.17356/)
 [pl\_highwood by Asd417](https://tf2maps.net/downloads/highwood.7211/)
 

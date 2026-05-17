@@ -145,31 +145,44 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 [3koth\_trefoil by Sand/W\\ich](https://gamebanana.com/mods/618084)
 
 [4arena\_downtown by Skillerzz](https://gamebanana.com/mods/576679)
+
 [4ctf\_quadcross by Z-Punky](https://tf2maps.net/downloads/4ctf_quadcross_rc2.20355/)
 
 [4koth\_nuclei by Asg\_Alligator](https://tf2maps.net/downloads/4koth_nuclei.20329/)
+
 [4koth\_pipeline by Z-Punky](https://tf2maps.net/downloads/4koth_pipeline_rc1.20365/)
+
 [ctf\_bizarro2fort by FoxGamer55](https://gamebanana.com/mods/619823)
 
 ## Live TF2
 
 [cp\_albany by Auwi](https://tf2maps.net/downloads/albany.18814/)
+
 [cp\_alloy by Yrr](https://tf2maps.net/downloads/alloy.989/)
+
 [cp\_chipper by zythe\_](https://tf2maps.net/downloads/chipper.17304/)
+
 [cp\_frequency by Alox](https://tf2maps.net/downloads/frequency.20399/)
-[cp\_rafters by zythe\_](%5Bcp_rafters%20by%20zythe\\\\_%5D%28https://tf2maps.net/downloads/rafters.19600/%29)
+
+[cp\_rafters by zythe\_](https://tf2maps.net/downloads/rafters.19600/)
+
 [ctf\_giants by pont](https://tf2maps.net/downloads/giants.12654/)
 
 [koth\_conveyance by thalia](https://tf2maps.net/downloads/conveyance-spring-fullthrottle.12769/)
+
 [koth\_databank by iiboharz](https://tf2maps.net/downloads/databank-2026.20541/)
+
 [koth\_databank\_snowy by iiboharz](https://tf2maps.net/downloads/snowbank.16808/)
+
 [koth\_descent by Phe](https://tf2maps.net/downloads/descent.20498/)
 
 [koth\_soot by Spleep](https://tf2maps.net/downloads/soot.10918/)
+
 [koth\_swerve by Cincomma](https://tf2maps.net/downloads/swerve.19493/)
 
 [pl\_blastpitt by AsG\_Alligator](https://tf2maps.net/downloads/blastpitt.7363/)
 
 [pl\_blocked by Crash](https://tf2maps.net/downloads/blocked.17356/)
+
 [pl\_highwood by Asd417](https://tf2maps.net/downloads/highwood.7211/)
 

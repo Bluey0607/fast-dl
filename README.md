@@ -195,6 +195,8 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [de_cpl_mill by [DNv]Cross](https://gamebanana.com/mods/101644)
 
+[de_dreamvillage by kingarthurdf](https://gamebanana.com/mods/101904)
+
 [de_nightfever by Magikus and Stard00d](https://gamebanana.com/mods/103277)
 
 [de_saw by jackennils](https://gamebanana.com/mods/103864)

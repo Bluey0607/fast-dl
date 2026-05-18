@@ -186,3 +186,19 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [pl\_highwood by Asd417](https://tf2maps.net/downloads/highwood.7211/)
 
+
+# Counter-Strike: Source
+
+[cs_drugbust by malfuncti0n](https://gamebanana.com/mods/99851)
+
+[de_boston by Sk3tch](https://gamebanana.com/mods/101250)
+
+[de_cpl_mill by [DNv]Cross](https://gamebanana.com/mods/101644)
+
+[de_nightfever by Magikus and Stard00d](https://gamebanana.com/mods/103277)
+
+[de_saw by jackennils](https://gamebanana.com/mods/103864)
+
+[de_strata by Xj2](https://gamebanana.com/mods/104146)
+
+[de_survivor_css by SM Sith Lord](https://gamebanana.com/mods/104206)

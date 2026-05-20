@@ -205,7 +205,7 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [de_losttemple by Magikus](https://gamebanana.com/mods/102998)
 
-[de_losttemple2 by Magikus](https://gamebanana.com/mods/102999
+[de_losttemple2 by Magikus](https://gamebanana.com/mods/102999)
 
 [de_nightfever by Magikus and Stard00d](https://gamebanana.com/mods/103277)
 

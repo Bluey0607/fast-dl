@@ -193,9 +193,19 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [de_boston by Sk3tch](https://gamebanana.com/mods/101250)
 
+[de_conduit by doxypony, original by dsdsds](https://gamebanana.com/mods/671057)
+
 [de_cpl_mill by [DNv]Cross](https://gamebanana.com/mods/101644)
 
+[de_cpl_fire by Magikus](https://gamebanana.com/mods/101643)
+
 [de_dreamvillage by kingarthurdf](https://gamebanana.com/mods/101904)
+
+[de_glacier by Dr.Spud](https://gamebanana.com/mods/102509)
+
+[de_losttemple by Magikus](https://gamebanana.com/mods/102998)
+
+[de_losttemple2 by Magikus](https://gamebanana.com/mods/102999
 
 [de_nightfever by Magikus and Stard00d](https://gamebanana.com/mods/103277)
 
@@ -204,3 +214,5 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 [de_strata by Xj2](https://gamebanana.com/mods/104146)
 
 [de_survivor_css by SM Sith Lord](https://gamebanana.com/mods/104206)
+
+[de_thematrix_1.1 by MoonQuake](https://gamebanana.com/mods/104320)

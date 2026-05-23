@@ -191,6 +191,10 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [cs_drugbust by malfuncti0n](https://gamebanana.com/mods/99851)
 
+[cs_mansion_2025 by rapapa the pepper](https://gamebanana.com/mods/398586)
+
+[de_bluecorridor by Schuzak](https://gamebanana.com/mods/101228)
+
 [de_boston by Sk3tch](https://gamebanana.com/mods/101250)
 
 [de_conduit by doxypony, original by dsdsds](https://gamebanana.com/mods/671057)
@@ -203,9 +207,7 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [de_glacier by Dr.Spud](https://gamebanana.com/mods/102509)
 
-[de_losttemple by Magikus](https://gamebanana.com/mods/102998)
-
-[de_losttemple2 by Magikus](https://gamebanana.com/mods/102999
+[de_losttemple_pro by Magikus](https://gamebanana.com/mods/103001)
 
 [de_nightfever by Magikus and Stard00d](https://gamebanana.com/mods/103277)
 

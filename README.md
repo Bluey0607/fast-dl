@@ -207,15 +207,7 @@ tdm\_shipbreaker by savva, with edits by Ossilia Flawol
 
 [de_glacier by Dr.Spud](https://gamebanana.com/mods/102509)
 
-<<<<<<< HEAD
 [de_losttemple_pro by Magikus](https://gamebanana.com/mods/103001)
-=======
-[de_losttemple by Magikus](https://gamebanana.com/mods/102998)
-
-[de_losttemple2 by Magikus](https://gamebanana.com/mods/102999)
->>>>>>> b60b6d75348681203fa7512fa46c1e3e4e13ce43
-
-[de_nightfever by Magikus and Stard00d](https://gamebanana.com/mods/103277)
 
 [de_saw by jackennils](https://gamebanana.com/mods/103864)
 
